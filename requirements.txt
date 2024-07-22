@@ -1,0 +1,10 @@
+customtkinter
+nltk
+regex
+sklearn
+falsk
+pandas 
+numpy
+matplotlib
+seaborn
+spacy
